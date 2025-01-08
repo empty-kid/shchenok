@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Дмитрий\Desktop\shchenok\contest6\12 Select CMakeLists.txt

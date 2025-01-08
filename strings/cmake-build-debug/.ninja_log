@@ -1,0 +1,19 @@
+# ninja log v6
+3	69	7577043980546262	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+71	147	7577043981217325	strings.exe	19b18b12ae5356ce
+5	88	7577046235502326	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+88	173	7577046236336688	strings.exe	19b18b12ae5356ce
+5	73	7577046670940530	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+74	152	7577046671630856	strings.exe	19b18b12ae5356ce
+5	72	7577047410548852	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+73	152	7577047411228860	strings.exe	19b18b12ae5356ce
+5	86	7577048063858510	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+87	172	7577048064676161	strings.exe	19b18b12ae5356ce
+5	78	7577048726288526	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+79	175	7577048727021282	strings.exe	19b18b12ae5356ce
+4	69	7577049255690187	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+69	148	7577049256344641	strings.exe	19b18b12ae5356ce
+21	149	7577826403380206	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+150	388	7577826404664697	strings.exe	19b18b12ae5356ce
+5	74	7577826611773523	CMakeFiles/strings.dir/main.c.obj	475b87eae7f6baa3
+75	156	7577826612471866	strings.exe	19b18b12ae5356ce

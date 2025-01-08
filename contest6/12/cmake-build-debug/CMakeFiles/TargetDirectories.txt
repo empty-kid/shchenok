@@ -1,0 +1,3 @@
+C:/Users/Дмитрий/Desktop/shchenok/contest6/12/cmake-build-debug/CMakeFiles/12.dir
+C:/Users/Дмитрий/Desktop/shchenok/contest6/12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Дмитрий/Desktop/shchenok/contest6/12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
