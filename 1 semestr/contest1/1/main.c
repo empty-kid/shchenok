@@ -3,7 +3,6 @@
 
 int main(void)
 {
-    printf("zxc");
     int a, b, min, max;
     scanf("%d", &a);
     scanf("%d",&b);
